@@ -9,3 +9,23 @@
 <info>Jennifer Walters é uma jovem advogada de super-heróis que tenta provar seu valor e seu talento na sua área de trabalho... apesar do fato dela ter dois metros de altura e ser verde.</info>
 </item> 
 *************************************
+
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
