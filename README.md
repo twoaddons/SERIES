@@ -32,6 +32,16 @@
 *************************************
 
 <item>
+<title>[COLOR silver][B] Sandman [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47e21af12e0b425b38750789bbbf1095178b4810</link>
+<thumbnail>https://abutretorrents.com/imagens/sandman-1-temporada-completa-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma rica mistura de mitos modernos e fantasia sombria em que ficção moderna, drama histórico e lendas estão perfeitamente interlaçadas, Sandman segue as pessoas e locais afetados por Morpheus, o Senhor dos Sonhos, enquanto ele conserta os cósmicos - e humanos - erros que fez durante sua vasta existência.</info>
+</item> 
+*************************************
+
+
+<item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
@@ -39,4 +49,3 @@
 <info></info>
 </item> 
 *************************************
-
