@@ -52,11 +52,11 @@
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] The Old Man [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:712bf39a8b228f26d6f37783a4da0d26b9672ca6</link>
+<thumbnail>https://abutretorrents.com/imagens/the-old-man-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info>Dan Chase escapou da CIA há décadas e desde então vive desconectado de tudo e todos. Mas quando um assassino o encontra em seu refúgio, ele entende que precisa se reconciliar com seu passado para garantir que terá um futuro.</info>
 </item> 
 *************************************
 
